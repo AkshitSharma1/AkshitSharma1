@@ -7,6 +7,4 @@ I graduated from IIT Guwahati in 2025 with a B.Tech in Computer Science and Engi
 Earlier research focused on multimodal learning, misinformation analysis, and harmful-content detection. This shaped my interest in how AI systems behave in ambiguous, adversarial, and high-risk settings, and led to papers accepted at EMNLP (Findings and workshop),WACV and several other reputed venues
 
 
-Open to research collaborations, volunteering, and judging opportunities in these areas
-
 More about my work: [akshit.cc](https://www.akshit.cc/)
